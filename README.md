@@ -81,7 +81,7 @@ Built an interactive dashboard featuring:
 - Dynamic filters for gender, category, and shipping type
 
 📊 Dashboard Preview:
-![Power BI Dashboard](<img width="1348" height="735" alt="image" src="https://github.com/user-attachments/assets/2a8b0299-3a77-487e-b347-7b2a35329f91" />)
+![Power BI Dashboard](![alt text](image.png))
 
 ---
 
