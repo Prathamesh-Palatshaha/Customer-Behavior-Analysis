@@ -137,8 +137,8 @@ Follow these steps to connect Power BI to the MySQL database used in this projec
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/your-username/customer-shopping-analysis.git
-cd customer-shopping-analysis
+git clone https://github.com/Prathamesh-Palatshaha/Customer-Behavior-Analysis.git
+cd Customer-Behavior-Analysis
 ```
 ### 2. Run Python Analysis
 pip install pandas numpy matplotlib
